@@ -2,7 +2,7 @@
   
     "Ads" : {
         "Priority": "admob",
-        "interstitial_click_count": "3",
+        "interstitial_click_count": "10",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
