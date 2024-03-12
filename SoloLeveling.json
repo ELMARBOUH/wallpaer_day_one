@@ -2,7 +2,7 @@
   
     "Ads" : {
         "Priority": "admob",
-        "interstitial_click_count": "1",
+        "interstitial_click_count": "10",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -15,7 +15,7 @@
         
     },
     "Category1" : {
-      "CategoryName" : "Abstract",
+      "CategoryName" : "hhhhhh",
       "CategoryImage" : "https://c4.wallpaperflare.com/wallpaper/246/739/689/digital-digital-art-artwork-illustration-abstract-hd-wallpaper-preview.jpg",
         "Wallpapers" :[
     {
@@ -73,7 +73,7 @@
     },
 
        "Category2" : {
-      "CategoryName" : "Dessert",
+      "CategoryName" : "hiiiii",
       "CategoryImage" : "https://images6.alphacoders.com/434/thumb-1920-434430.jpg",
         "Wallpapers" :[
     {
@@ -125,7 +125,7 @@
     },
 
        "Category3" : {
-      "CategoryName" : "AirCraft",
+      "CategoryName" : "AAAAAAAAA",
       "CategoryImage" : "https://wallpaperboat.com/wp-content/uploads/2019/09/aircraft-Wallpapers-high-resolution.jpg",
         "Wallpapers" :[
     {
@@ -180,7 +180,7 @@
     },
 
        "Category4" : {
-      "CategoryName" : "Architecture",
+      "CategoryName" : "qqqqqqqqqqqq",
       "CategoryImage" : "https://wallpapercave.com/wp/wp4081391.jpg",
         "Wallpapers" :[
     {
